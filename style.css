@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(241, 197, 143);
+    text-align: center;
+}
+h1 {
+    color: brown;
+}
+ul {
+    border: black 2px solid;
+    list-style: none;
+    margin: 20px 300px;
+}
